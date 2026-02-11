@@ -4,6 +4,8 @@
 
 <p align="center"><img src="images/logo.png" alt="MMAR Benchmark Logo" width="300"/></p>
 
+## 🔥 News
+- 2025/01/26: MMSU is accepted by ICLR 2026. See you in Brazil! 🇧🇷🇧🇷🇧🇷
 
 ## 📌 Overview
 
