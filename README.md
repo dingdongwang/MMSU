@@ -1,8 +1,10 @@
 # MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark
 
-[**📄 MMSU arXiv**](https://arxiv.org/pdf/2506.04779)  |  [**🎧 Audio Demo Page**](https://ddw.github.io/mmsu_homepage/)  |  [**🏆 Leaderboard**](#-leaderboard)  |  [**🤗 Dataset Download**](https://huggingface.co/datasets/ddwang2000/MMSU) 
+<font size=7><div align='center' > [[**📄 MMSU arXiv**](https://arxiv.org/pdf/2506.04779)  |  [**🎧 Audio Demo Page**](https://ddw.github.io/mmsu_homepage/)  |  [**🏆 Leaderboard**](#-leaderboard)  |  [**🤗 Dataset Download**](https://huggingface.co/datasets/ddwang2000/MMSU)]  </div></font>
 
-<p align="center"><img src="images/logo.png" alt="MMAR Benchmark Logo" width="300"/></p>
+<p align="center">
+    <img src="images/mmsu_logo.jpg" width="100%" height="100%">
+</p>
 
 ## 🔥 News
 - 2025/01/26: MMSU is accepted by ICLR 2026. See you in Brazil! 🇧🇷🇧🇷🇧🇷
