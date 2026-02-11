@@ -65,7 +65,15 @@ python mmsu_evaluation.py /path/to/your/input.jsonl
 
 
 
-
+## Citation
+```
+@article{wang2025mmsu,
+      title={MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark}, 
+      author={Dingdong Wang and Jincenzi Wu and Junan Li and Dongchao Yang and Xueyuan Chen and Tianhua Zhang and Helen Meng},
+      journal={arXiv preprint arXiv:2506.04779},
+      year={2025},
+}
+```
 
 
 
