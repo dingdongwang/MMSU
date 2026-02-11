@@ -16,6 +16,7 @@ MMSU adopts a three-level taxonomy to organize tasks and assessment dimensions. 
 We evaluate multimodal models on MMSU benchmark across perception (Per.) and reasoning (Rea.) dimensions in Semantics, Phonology, and Paralinguistics domains.
 
 | Models   | Size  | Avg (all) | Semantics (Per.) | Phonology (Per.) | Paralinguistics (Per.) | Avg (Per.) | Semantics (Rea.) | Phonology (Rea.) | Paralinguistics (Rea.) | Avg (Rea.) |     
+|   |  |  |  | |  |  |  |  |  |  |  
 | 🏅Gemini-1.5-Pro | - | 60.68 | 57.06 | 53.60 | 31.23 | 46.10 | 79.47 | |83.46 | 46.33 | 76.16 |
 | 🥈Qwen2.5-Omni-7B | 7B | 60.57 | 55.12 | 37.33 | |39.35 | 42.50 | 88.00 | 81.37 | 48.36 | |79.83 | 
 | 🥉Kimi-Audio | 7B | 59.28 |57.64 | 42.30 | 35.74 | 43.52 | 81.77 | 76.65 | 55.22 |76.03 | 
