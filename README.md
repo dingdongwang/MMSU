@@ -2,7 +2,7 @@
 
 [**📄 MMSU arXiv**](https://arxiv.org/pdf/2506.04779) | [**🎧 Demo Page**](https://ddw.github.io/mmsu_homepage/) | [**🏆 Leaderboard**](https://sakshi113.github.io/mmau_homepage/#leaderboard-v15-parsed) | [**🤗 Dataset Download**](https://huggingface.co/datasets/ddwang2000/MMSU) 
 
-![Alt text](images/logo.png)
+<p align="center"><img src="images/logo.png" alt="MMAR Benchmark Logo" width="300"/></p>
 
 ## 📌 Overview
 
