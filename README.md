@@ -1,9 +1,9 @@
 # MMSU: A Massive Multi-task Spoken Language Understanding and Reasoning Benchmark
 
-<font size=7><div align='center' > [[**📄 MMSU arXiv**](https://arxiv.org/pdf/2506.04779)  |  [**🎧 Audio Demo Page**](https://ddw.github.io/mmsu_homepage/)  |  [**🏆 Leaderboard**](#-leaderboard)  |  [**🤗 Dataset Download**](https://huggingface.co/datasets/ddwang2000/MMSU)]  </div></font>
+<font size=7><div align='center' > [**📄 MMSU arXiv**](https://arxiv.org/pdf/2506.04779)  |  [**🎧 Audio Demo Page**](https://ddw.github.io/mmsu_homepage/)  |  [**🏆 Leaderboard**](#-leaderboard)  |  [**🤗 Dataset Download**](https://huggingface.co/datasets/ddwang2000/MMSU)  </div></font>
 
 <p align="center">
-    <img src="images/mmsu_logo.jpg" width="100%" height="100%">
+    <img src="images/mmsu_logo.png" width="100%" height="100%">
 </p>
 
 ## 🔥 News
