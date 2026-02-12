@@ -51,20 +51,19 @@ We evaluate multimodal models on MMSU benchmark across perception (Per.) and rea
 
 ## 🔬 Evaluation Pipeline
 
-Step1: Download MMSU Data from [Huggingface](https://huggingface.co/datasets/ddwang2000/MMSU)
-```python
-from datasets import load_dataset
-ds = load_dataset("ddwang2000/MMSU")
+Step1: Inference your model on MMSU Benchmark
+
+The inference script will automatically load the MMSU dataset from Huggingface](https://huggingface.co/datasets/ddwang2000/MMSU) 
+Note: You need to modify `mmsu_inference.py` to integrate your own model.
+
+```bash
+python mmsu_inference.py --output_jsonl pred_results.jsonl
 ```
 
-Step2: Inference your model on MMSU Benchmark
-```bash
-python mmsu_inference.py --input_jsonl /path/to/input.jsonl --output_jsonl /path/to/output.jsonl
-```
+Step2: Evaluate on MMSU Benchmark
 
-Step3: Evaluate on MMSU Benchmark
 ```bash
-python mmsu_evaluation.py /path/to/your/input.jsonl
+python mmsu_evaluation.py pred_results.jsonl
 ```
 
 
