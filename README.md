@@ -46,7 +46,7 @@ We evaluate multimodal models on MMSU benchmark across perception (Per.) and rea
 | BLSP | 7B | 35.96 | 31.35 | 20.96 | 23.75 | 28.36 | 47.91 | 42.31 | 42.08 | 44.97 |
 | Lyra | 7B | 16.11 | 17.31 | 9.47 | 18.59 | 15.78 | 10.36 | 25.71 | 23.42 | 16.42 |
 
-
+The leaderboard will be updated accordingly. We welcome submissions — please contact us at: dingdongwang@link.cuhk.edu.hk
 
 
 ## 🔬 Evaluation Pipeline
